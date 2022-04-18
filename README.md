@@ -7,10 +7,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=goldhumorist&show_icons=true&theme=radical"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldhumorist&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=goldhumorist&show_icons=true&theme=radical"/>
 
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldhumorist&layout=compact"/>
+ 
 <!--
 **Goldhumorist/Goldhumorist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
