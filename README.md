@@ -12,9 +12,9 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Goldhumorist&show_icons=true&theme=radical"/>
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Goldhumorist&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldhumorist&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldhumorist&layout=compact"/> -->
  
 <!--
 **Goldhumorist/Goldhumorist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
