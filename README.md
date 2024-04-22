@@ -1,5 +1,4 @@
 ### Hello, I'm Sasha 👋
-- 👀 Javascript/Typescript + Node.JS
 - 🌱 Software Developer
 
 ## My Skills
